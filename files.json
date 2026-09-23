@@ -1,7 +1,8 @@
 [
     {
         "p_rel_link":"amittttt12233221-prog/Files_For_ETL/refs/heads/main/AdventureWorks_Calendar.csv",
-        "p_sink_file":"Calender/Calender.csv"
+        "p_sink_folder":"Calender",
+        "p_sink_file":"Calender.csv"
     },
 
 {
